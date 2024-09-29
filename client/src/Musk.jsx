@@ -36,7 +36,7 @@ const MuskChat = () => {
     <div className="flex flex-col h-screen bg-gray-100">
       <header className="bg-blue-600 text-white p-4 text-center">
         <h1 className="text-2xl font-bold flex items-center justify-center">
-          <span className="mr-2">🚀</span> Elon Parody
+          <img src="/musk.png" width={100} height={100}></img> Elon Parody
         </h1>
       </header>
 
